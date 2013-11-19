@@ -4,11 +4,12 @@
 ## About
 
 I am Buddy Magsipoc, I run an industrial supply and service business which leaves me
-with plenty of time to spend on my Passion - building things with code.
+with plenty of time to spend on my passion - building things with code. I build apps with ruby
+and am learning nodejs.
 
 ## Hardware
 
-* 27" 2011 iMAC that i basically use as an external monitor for my....
+* 27" 2011 iMAC that I basically use as an external monitor for my....
 * 11" 2013 Macbook Air which I carry with me all the time. Holds all my work files and hobby apps.
 * A lot of mechanical keyboards
 
